@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2024/01/14-19:43:31.279 19674 Reusing MANIFEST C:/AAschool/semester 3/applied software/New folder/GruseligesLabyrinth/Saved/webcache_4430\Session Storage/MANIFEST-000001
 2024/01/14-19:43:31.280 19674 Recovering log #3
 2024/01/14-19:43:31.281 19674 Reusing old log C:/AAschool/semester 3/applied software/New folder/GruseligesLabyrinth/Saved/webcache_4430\Session Storage/000003.log 
+=======
+2024/01/15-02:57:35.190 d80 Creating DB C:/Users/theTscheZ/Documents/Schule/Applied Software Techniques/GruseligesLabyrinth/Saved/webcache_4430\Session Storage since it was missing.
+2024/01/15-02:57:35.196 d80 Reusing MANIFEST C:/Users/theTscheZ/Documents/Schule/Applied Software Techniques/GruseligesLabyrinth/Saved/webcache_4430\Session Storage/MANIFEST-000001
+>>>>>>> fd09b248a07dda6f1e2fafd2af7c8b1bc4b852b9

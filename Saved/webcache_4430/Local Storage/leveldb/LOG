@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2024/01/14-19:27:54.907 19618 Reusing MANIFEST C:/AAschool/semester 3/applied software/New folder/GruseligesLabyrinth/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
 2024/01/14-19:27:54.909 19618 Recovering log #8
 2024/01/14-19:27:54.909 19618 Reusing old log C:/AAschool/semester 3/applied software/New folder/GruseligesLabyrinth/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+=======
+2024/01/15-02:57:25.159 1058 Creating DB C:/Users/theTscheZ/Documents/Schule/Applied Software Techniques/GruseligesLabyrinth/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/01/15-02:57:25.180 1058 Reusing MANIFEST C:/Users/theTscheZ/Documents/Schule/Applied Software Techniques/GruseligesLabyrinth/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> fd09b248a07dda6f1e2fafd2af7c8b1bc4b852b9
