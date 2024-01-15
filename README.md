@@ -3,7 +3,7 @@
 #Beschreibung: 
 Sammle die 4 Lieblingd-Gegenstände der Tubbies und entkomme aus dem Labyrinth
 
-Inputs:
+#Inputs:
 Bewegen: WASD
 Springen: Space
 Interaktion: E
