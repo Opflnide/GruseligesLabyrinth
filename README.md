@@ -1,10 +1,10 @@
 #Name: 
-
 Terror Tubbies
 
-#Beschreibung: 
 
+#Beschreibung: 
 Sammle die 4 Lieblingd-Gegenstände der Tubbies und entkomme aus dem Labyrinth
+
 
 #Inputs:
 
